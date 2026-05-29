@@ -1,3 +1,5 @@
+//Do not make any changes to this page!
+
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'home_page.dart'; // Ana səhifəni import edirik
