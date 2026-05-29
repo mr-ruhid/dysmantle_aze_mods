@@ -1,3 +1,5 @@
+//Please indicate your changes below. After reporting the changes, don't forget to write your name next to it -- MR-Ruhid
+
 import 'package:flutter/material.dart';
 import 'package:window_manager/window_manager.dart';
 import 'loading_page.dart'; // İlk açılacaq səhifəni çağırırıq
