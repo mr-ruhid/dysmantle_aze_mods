@@ -1,3 +1,4 @@
+# Do not touch this file!
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
 project(dysmantle_aze_mods LANGUAGES CXX)
